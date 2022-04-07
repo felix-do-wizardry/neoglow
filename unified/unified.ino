@@ -21,7 +21,7 @@ char* password = "WinterBoySummerGirl@wifi6";
 //const int NUM_PIXELS = 60;
 //const int NUM_PIXELS = 120;
 //const int NUM_PIXELS = 144;
-const int NUM_PIXELS = 160;
+const int NUM_PIXELS = 60 * 2 + 144;
 //const int NUM_PIXELS = 256;
 
 const int NUM_SUBPIXELS = NUM_PIXELS * 3;
